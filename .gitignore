@@ -1,0 +1,32 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+/logs
+.settings
+.project
+.classpath
+.factorypath
+rebel.xml
+rebel-remote.xml
+.rebel.xml.bak
+.rebel-remote.xml.bak
+
+logback.file.dir_IS_UNDEFINED
+logs
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.flattened-pom.xml
