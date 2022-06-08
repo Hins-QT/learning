@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <modules>
     <module>learn_netty</module>
+    <module>learn_basics</module>
   </modules>
 
   <parent>
@@ -28,6 +29,4 @@
 
 </dependencyManagement>
 
-  <build>
-  </build>
 </project>
