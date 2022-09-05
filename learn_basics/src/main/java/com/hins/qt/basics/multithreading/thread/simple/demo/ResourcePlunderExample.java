@@ -3,6 +3,8 @@ package com.hins.qt.basics.multithreading.thread.simple.demo;
 /**
  * @author PanHao
  * @date 2022/7/19 11:00
+ * 手动创建单线程方式 资源抢夺例子
+ *
  */
 public class ResourcePlunderExample {
 
@@ -28,7 +30,7 @@ public class ResourcePlunderExample {
                }
 
            }).start();
-           System.out.println("---------------------------------------------");
+           System.out.println("--------------------------");
            if (i==0){
                break;
            }
